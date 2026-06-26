@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="[đường-dẫn-ảnh-github-vừa-tạo](https://github.com/user-attachments/assets/1f5c8d68-7970-43ef-9f19-eb36ae9711d2)" width="800" alt="Ôn thi Tin học văn phòng">
+  <img width="2400" height="800" alt="Ôn thi Tin học văn phòng" src="https://github.com/user-attachments/assets/a7386903-f921-4bc9-aad7-424af4ec5bfb" />
 </p>
 # 📚 Ôn thi Tin học văn phòng — 398 câu trắc nghiệm
+
 
 > 🎯 Ứng dụng web luyện thi trắc nghiệm **Microsoft Word · Excel · Access 2010**, có đáp án, giải thích và mẹo khoanh.
 
