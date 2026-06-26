@@ -12,7 +12,7 @@
 
 **[🔗 Mở ứng dụng ôn thi]([https://ngoctran2510346k25.github.io/-DCNTT-N-ng-cao/](https://ngoctran2510346k25.github.io/Advanced_application_of_IT/))**
 
-*([Nhớ thay bằng link GitHub Pages thật của bạn](https://ngoctran2510346k25.github.io/Advanced_application_of_IT/))*
+*([link GitHub Pages](https://ngoctran2510346k25.github.io/Advanced_application_of_IT/))*
 
 ---
 
